@@ -1,0 +1,9 @@
+.MuiDataGrid-cell:focus,
+.MuiDataGrid-cell:focus-within {
+  outline: none !important;
+  box-shadow: none !important;
+} 
+
+.MuiDataGrid-columnHeader:focus{
+  outline : none !important ;
+}
